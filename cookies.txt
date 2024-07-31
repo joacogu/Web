@@ -1,0 +1,43 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationHC7l9YEvLIWz7f9OBAg0NzWxB5eVysJt3qmEOIselqY	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationF_6qEOVnrHXNf9enIu9guXBCnWlQX3JO-eM7y5yaJZc	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationuTdiIbfKgWX7XEqQJdnSS1UXKj8B6kgdoQYZ-iVWY9k	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation2SMgK6R12mV6rFiVGWdyhHNU4sHl_7aleSngQjPspks	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationmBMe2XjJkl7KX3ZfmtwAWrEgvnAgBI7Dcv1cnZX16q4	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationGI1dJ40boQfwmv8ppBbJ9c-KXPgJUXEX65rYRKlJ_7o	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation0Iiwi0VT0nZqb8QzxcJZAk2rg8JyP9ZP4_BFDsoLDF0	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationn3NkXtZ_zKnXyp-yZqYULb6U5YzP-D3_IPR6zN6IQKM	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation9LCLwAJBaH9ml7OsfjItLgoblCzh-hvJv62mieYluQw	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation6xMtVH_PPlgNz-Tg9RjKoW-3004QLcYRemhIfbVwHm8	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation_EvY6keF0zmWQ7PvxSnuRPEMRLlui1MGXJSTyKP4UsA	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation0HRGiS1foJO-xj62zm5jWr8FuDMT7xyLynqP-Vt9K4c	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationElSEoF2857BWj3NH_I8a4mn8hDnHpStCr9DiHxCv9oE	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation7vdqTRaMbre6bkF6S9NfgMq06cu858NpEFpI5JbXP6w	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationaQ591AAMxyesQS4nw-dcRHazdUq8A-kV7RDSXmAKjA4	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation-u2V3kuVEZ76jcQjpYpEWfQ8c258f1ULnHplcGeD5L0	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationKmdBPiRToSzLLyoKv8EItlhc6m5UHrgjDmdM2Ce2_1Y	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation-scEICdOWavRx7eEZfNWLTi6sdKHMwaI-MF42ShIAog	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationafO1DzTMDKwUZYAqQ_S6y3s-MGVS7OwuAWY7eig5Iko	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation7nsUXLrvavzibocIZyDrcEwUT8mIPsLz2v5E2Ha8G7A	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationVN_iFIe7kTHFgE_S0ggoWyuFDcWv6TMDzKkfiPBwCRk	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationrZkl_1ajaJnUATGAO2eUzrrqbomtznGzgJZbfiX_61Q	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationM1C1VRm9l7BsU7BxBl2N5ecPuCrtmqNS3Qz1R_TnSis	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation6y-yStnFgyegcqDrkdFmZuQY8l0X-3iXiSsqbYxfUy8	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationE9wfBLuK80tL_BX73bGteSHG1OuTUM9WeTEWvL4rnEY	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationvfrAMSjHD8d3tvFqx63o6rYOLV8jCyp4pvTQWr3Xj1A	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation794WpFPAtQKb3v7gEZFN0-fs4X0W5KuGc_xnIq0KKYQ	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationaQKHL-cVuDmHuhzvdfL16CjR_vAMCtXcaXYJRwVPJcA	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationCVCvCMykAuAjDcLtdgS0hq9vsKUzfkEO7HLXfytGH34	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationRz8eXBdG6t6jXYYKdLP-ma6pJZGAm_JzjoUwd2kcQsc	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationd2C9a7rjsXRWN8WLMqHIqzVLMiVDv0pJxQ5gtdkecow	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationLvsmxW5-Cx8HnMbX4J-WgOCu55wwyt99RIJv-LkcVy4	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationJOM8TjQ54JTV0CAQpHXroM87MPLbc-LQ024vhbIeITQ	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationONO9eAM-8lVgfZkZnT96eUXfADoGBugyoCZx2d42Cic	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationGSvIEp2PRXWA0GSbcZ3LFsaOUhyg9FoYzYzk-RiGqN0	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlation6a1S9MvXSydIL96S34PW_lhCbjqqhGBBn7k_Ou5owFA	N
+www.boleteriavip.com.ar	TRUE	/auth/google/callback	FALSE	1999999999	_bvip_google_correlationB49pPYW9AYnqzBNpzDyvsDvvJkK2GuabgMRYRKpXjSg	N
+www.boleteriavip.com.ar	TRUE	/	FALSE	1999999999	_bvip_antiforgey	CfDJ8BsjYrAObjZCqBTpIMFYKevrVyVyrCDnxfZAGSiXL66pPnb4CDZELuLZvdn9zaKVod6JERYNgojEU3MHLD24a0T_eQ2TeLuSLXleowuHgbkNLIMmFBOVsiX9eVYXW1WmTjtwxcOY1J426QZ7tibo8wA
+www.boleteriavip.com.ar	TRUE	/	FALSE	1999999999	_bvip_session	CfDJ8BsjYrAObjZCqBTpIMFYKeseRnDImjLpmUDWqo%2BeWPSqCwTpIHfh9lUukMNaRJ%2Fvj8UeByrqBdhK0CYknTzibS3IR7e5hwnzMACHmddVNivJNgCtb1bpD3kRzfF8lPNALU9wYaA9eaZiyqfb426JgSrao7zpVZLCXDLyxTn8lUDE
+www.boleteriavip.com.ar	TRUE	/	FALSE	1999999999	samesite	none
+
